@@ -4,7 +4,7 @@
 This build is the back end for an e-commerce site. I used Express.js API and configure it to use Sequelize to interact with a MySQL database.
 
 ##  Below is the gif showing the functionality of the application:
-![ORM-Demo](https://github.com/ShivaTagh/Challange13-ORM/assets/127795324/7a50e45b-0b6c-490a-86bb-92162b5f9389)
+![ORM-Demo](https://github.com/ShivaTagh/Challange13-ORM/assets/127795324/91c0b497-4ab5-4960-a8a5-7c558c974a49)
 
 
 ## Installation
