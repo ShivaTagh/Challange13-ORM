@@ -19,6 +19,8 @@ npm install dotenv
 ## Usage
 Run the following command at the root of your project and answer the prompted questions:
 
+Create a .env file and add you username password
+
 mysql -u root -p
 
 Enter PW when promted
